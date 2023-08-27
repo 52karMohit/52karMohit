@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Mohit Meghraj Bawankar</h1>
 <h3 align="center">An Aspiring Software Engineer from India</h3>
 
-<img align="right" alt = "coding" width = "400" src = "[https://media0.giphy.com/media/m6pvmOSXuTEPaKFWBz/200w.webp?cid=ecf05e47rc6d9ti6ndwv112q0pmprki688ss1rybf33bcwlb&ep=v1_gifs_search&rid=200w.webp&ct=gif](https://i.gifer.com/origin/bc/bca56ffe4a6e2910237482982aa856fe_w200.webp)">
+<img align="right" alt = "coding" width = "400" src = "https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=52karmohit&label=Profile%20views&color=0e75b6&style=flat" alt="52karmohit" /> </p>
 
